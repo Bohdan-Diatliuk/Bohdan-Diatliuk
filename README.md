@@ -2,8 +2,8 @@
 
 
 ## 💫 About Me
-💻 Frontend Developer | React & TypeScript | Building modern, responsive web apps
-🌍 Based in Ukraine  
+- 💻 Frontend Developer | React & TypeScript | Building modern, responsive web apps
+- 🌍 Based in Ukraine  
 
 
 
