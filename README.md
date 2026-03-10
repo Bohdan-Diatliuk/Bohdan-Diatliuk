@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me
-- 💻 Frontend Developer | React & TypeScript | Building modern, responsive web apps
+- 💻 Fullstack Developer | JavaScript, TypeScript, React, Next, Node.js, NestJs | Building modern, responsive web apps
 - 🌍 Based in Ukraine  
 
 
