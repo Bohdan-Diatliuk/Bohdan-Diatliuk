@@ -1,4 +1,4 @@
-## Hi there, I'm Bohdan 👋🐍
+## Hi there, I'm Bohdan 🐍
 
 
 ## 🤼 About Me
