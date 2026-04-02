@@ -1,9 +1,9 @@
-## Hi there, I'm Bohdan 👋
+## Hi there, I'm Bohdan 👋🐍
 
 
-## 💫 About Me
-- 💻 Fullstack Developer | JavaScript, TypeScript, React, Next, Node.js, NestJs | Building modern, responsive web apps
-- 🌍 Based in Ukraine  
+## 🤼 About Me
+- 💻 Full-stack Developer | JavaScript, TypeScript, React, Next, Node.js, Express, NestJs 
+- 🚨 Based in Ukraine  
 
 
 
